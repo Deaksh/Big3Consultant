@@ -26,3 +26,4 @@ seaborn
 plotly
 networkx
 pandas
+groq
